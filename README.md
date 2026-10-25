@@ -165,10 +165,10 @@ No Microsoft 365 or mail server existed in the lab at this stage, so the account
 
 ---
 
-## Ticket 004 — Finance drive missing for Daniel
+## Ticket 004 — Finance drive missing for David
 
 **Category:** Group Policy / mapped drive  
-**User:** Daniel Okafor  
+**User:** David Carter 
 **Priority:** Medium
 
 ### Issue
