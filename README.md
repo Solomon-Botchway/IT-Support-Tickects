@@ -129,10 +129,10 @@ Sarah’s account locked again after it had been unlocked. She was using the cor
 
 ---
 
-## Ticket 003 — New employee onboarding: Daniel Okafor
+## Ticket 003 — New employee onboarding: David Carter
 
 **Category:** New starter / access provisioning  
-**User:** Daniel Okafor (`dokafor`)  
+**User:** Daniel Okafor (`david.carter`)  
 **Department:** Finance  
 **Role:** Finance Assistant  
 **Manager:** Priya Shah  
