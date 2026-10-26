@@ -1,5 +1,4 @@
-# IT-Support-Tickects
-# SoloTech Active Directory & IT Support Lab
+# IT-Support-Tickects & IT Support Lab
 
 > A practical Windows Server, Active Directory, file services, endpoint support, monitoring and security lab built to demonstrate IT Support skills and a foundation for cybersecurity.
 
