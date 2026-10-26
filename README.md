@@ -1,7 +1,4 @@
 # IT-Support-Tickects & IT Support Lab
-
-> A practical Windows Server, Active Directory, file services, endpoint support, monitoring and security lab built to demonstrate IT Support skills and a foundation for cybersecurity.
-
 ## Overview
 
 This project simulates IT Support work for **SoloTech**, a fictional company running the `solotech.local` Active Directory domain. The lab grew from a domain controller and one client into a multi machine environment with a file server, Linux domain member, Group Policy, central event collection, network shares, printers and an internal intranet.
